@@ -1,0 +1,12 @@
+table{
+    background-color: rgb(189, 176, 160);
+    width:100%;
+    height:auto;
+    border : 1px solid black;
+    margin-top:5%;
+    
+}
+td { 
+    border : 1px solid green;
+    text-align: center;
+ }
